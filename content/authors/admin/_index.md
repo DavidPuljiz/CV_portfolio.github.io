@@ -49,7 +49,7 @@ interests:
   - Information Retrieval
 
 education:
- - area: Ph.D. in Robotics and Informatics
+  - area: Ph.D. in Robotics and Informatics
     institution: Karlsruhe Institute of Technology
     date_start: 2017-01-01
     date_end: 2024-11-30
