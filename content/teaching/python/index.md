@@ -5,11 +5,10 @@ date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Teaching
 image:
   caption: 'Teaching'
 ---
-##Karlsruhe Institute of Technology
+###Karlsruhe Institute of Technology
 
 ”Seminar on Intelligent Industry Robotics”:
 

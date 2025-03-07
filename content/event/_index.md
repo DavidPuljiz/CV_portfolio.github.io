@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Directed thesis
 cms_exclude: true
 #url: talk
 
