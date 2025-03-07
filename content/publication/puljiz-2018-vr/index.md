@@ -16,4 +16,6 @@ publication_types:
 publication: '*2018 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
 doi: 10.1109/IROS.2018.8594053
+
+featured: true
 ---

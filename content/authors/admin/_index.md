@@ -44,9 +44,11 @@ profiles:
     link: https://github.com/DavidPuljiz
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wearable devices
+  - Machine Vision
+  - Cyberphysical systems
+  - Human enhancement
+  - Human AI interaction
 
 education:
   - area: Ph.D. in Robotics and Informatics
@@ -54,7 +56,7 @@ education:
     date_start: 2017-01-01
     date_end: 2024-11-30
     summary: |
-      Thesis on _"Adapting the Human. Human-Robot Interaction mediated by Wearables and Augmented Reality."_
+      Thesis on "Adapting the Human. Human-Robot Interaction mediated by Wearables and Augmented Reality."_
     button:
       text: 'View Institution'
       url: 'https://www.kit.edu/'

@@ -1,6 +1,5 @@
 ---
-title: Human intention estimation based on hidden Markov model motion validation for
-  safe flexible robotized warehouses
+title: Human intention estimation based on hidden Markov model motion validation for safe flexible robotized warehouses
 authors:
 - Tomislav Petković
 - David Puljiz
@@ -20,4 +19,6 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0736584518302965
+
+featured: true
 ---
