@@ -68,7 +68,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Directed thesis
       filters:
         folders:
           - event
