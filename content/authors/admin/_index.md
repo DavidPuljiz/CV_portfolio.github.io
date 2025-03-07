@@ -79,7 +79,7 @@ education:
       text: 'View Institution'
       url: 'https://www.fer.unizg.hr/en'
 work:
-- position: Research Assistant
+  - position: Research Assistant
     company_name: Institute for Robotics and Autonomous Systems
     company_url: 'https://www.h-ka.de/en/iras/profile'
     company_logo: ''
@@ -157,7 +157,8 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-- name: Robotics
+skills:
+  - name: Robotics
     items:
       - name: C++
         description: 'ROS, MoveIT, Vision-based Control'
