@@ -1,16 +1,16 @@
 ---
 title: Tracking of an Intelligent Pen Using Internal Sensors of a Commercial Head
   Mounted Display
-event: B.Sc. Thesis Supervision
+# event: B.Sc. Thesis Supervision
 event_url: ''
 location: Karlsruhe Institute of Technology
-address:
-  street: ''
-  city: Karlsruhe
-  region: ''
-  postcode: ''
-  country: Germany
-summary: Utilized internal sensors of head-mounted displays for intelligent pen tracking
+# address:
+#   street: ''
+#   city: Karlsruhe
+#   region: ''
+#   postcode: ''
+#   country: Germany
+# summary: Utilized internal sensors of head-mounted displays for intelligent pen tracking
 abstract: This B.Sc. Thesis explored utilized internal sensors of head-mounted displays
   for intelligent pen tracking
 date: '2020-11-01T00:00:00Z'
@@ -34,4 +34,3 @@ projects:
 - tracking
 ---
 
-This Bachelor's thesis focused on utilized internal sensors of head-mounted displays for intelligent pen tracking. The research contributed to advancing methods in Computer Vision.

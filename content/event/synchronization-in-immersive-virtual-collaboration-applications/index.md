@@ -1,15 +1,15 @@
 ---
 title: Synchronization in immersive virtual collaboration applications
-event: M.Sc. Thesis Supervision
+# event: M.Sc. Thesis Supervision
 event_url: ''
 location: Karlsruhe Institute of Technology
-address:
-  street: ''
-  city: Karlsruhe
-  region: ''
-  postcode: ''
-  country: Germany
-summary: Implemented synchronization methods for immersive collaborative VR applications
+# address:
+#   street: ''
+#   city: Karlsruhe
+#   region: ''
+#   postcode: ''
+#   country: Germany
+# summary: Implemented synchronization methods for immersive collaborative VR applications
 abstract: This M.Sc. Thesis explored implemented synchronization methods for immersive
   collaborative VR applications
 date: '2020-08-01T00:00:00Z'
@@ -31,7 +31,6 @@ url_slides: ''
 url_video: ''
 slides: ''
 projects:
-- synchronization
+- Virtual Reality
 ---
 
-This Master's thesis focused on implemented synchronization methods for immersive collaborative VR applications. The research contributed to advancing methods in Virtual Reality, Human-Robot Interaction.

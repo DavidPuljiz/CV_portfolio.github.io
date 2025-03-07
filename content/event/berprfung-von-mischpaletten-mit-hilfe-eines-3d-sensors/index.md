@@ -1,15 +1,15 @@
 ---
 title: Überprüfung von Mischpaletten mit Hilfe eines 3D Sensors
-event: B.Sc. Thesis Supervision
+# event: B.Sc. Thesis Supervision
 event_url: ''
 location: Karlsruhe Institute of Technology
-address:
-  street: ''
-  city: Karlsruhe
-  region: ''
-  postcode: ''
-  country: Germany
-summary: Implemented 3D sensor-based inspection system for mixed pallets
+# address:
+#   street: ''
+#   city: Karlsruhe
+#   region: ''
+#   postcode: ''
+#   country: Germany
+# summary: Implemented 3D sensor-based inspection system for mixed pallets
 abstract: This B.Sc. Thesis explored implemented 3D sensor-based inspection system
   for mixed pallets
 date: '2017-03-01T00:00:00Z'
@@ -32,5 +32,3 @@ slides: ''
 projects:
 - berprfung
 ---
-
-This Bachelor's thesis focused on implemented 3D sensor-based inspection system for mixed pallets. The research contributed to advancing methods in Research.

@@ -1,6 +1,6 @@
 ---
 title: AR-based Mapping and Safety Zone Definition for Robot Cells
-type: M.Sc. Thesis 
+# type: M.Sc. Thesis 
 event_url: ''
 location: Karlsruhe Institute of Technology
 # address:

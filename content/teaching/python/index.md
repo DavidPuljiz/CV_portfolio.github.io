@@ -8,11 +8,8 @@ tags:
 image:
   caption: 'Teaching'
 ---
-###Karlsruhe Institute of Technology
+### Karlsruhe Institute of Technology
 
-”Seminar on Intelligent Industry Robotics”:
+-**Seminar on Intelligent Industry Robotics**: Add description
 
-Add description
-
-”Project Practical in Robotics and Automation”:
-Add description
+-**Project Practical in Robotics and Automation**: Add description

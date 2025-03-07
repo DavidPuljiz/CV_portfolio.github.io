@@ -1,15 +1,15 @@
 ---
 title: Gesture Recognition and Augmented Reality based Industrial Robot Programming
-event: M.Sc. Thesis Supervision
+# event: M.Sc. Thesis Supervision
 event_url: ''
 location: Karlsruhe Institute of Technology
-address:
-  street: ''
-  city: Karlsruhe
-  region: ''
-  postcode: ''
-  country: Germany
-summary: Developed gesture recognition system for AR-based industrial robot programming
+# address:
+#   street: ''
+#   city: Karlsruhe
+#   region: ''
+#   postcode: ''
+#   country: Germany
+# summary: Developed gesture recognition system for AR-based industrial robot programming
 abstract: This M.Sc. Thesis explored developed gesture recognition system for AR-based
   industrial robot programming
 date: '2018-12-01T00:00:00Z'
@@ -35,4 +35,4 @@ projects:
 - gesture
 ---
 
-This Master's thesis focused on developed gesture recognition system for AR-based industrial robot programming. The research contributed to advancing methods in Augmented Reality, Robotics, Human-Robot Interaction.
+\

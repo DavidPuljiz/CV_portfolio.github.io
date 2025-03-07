@@ -1,17 +1,17 @@
 ---
 title: Tracking of Human Body Based on AR Device and IMUs for Safe Close-proximity
   Human-robot Collaboration
-event: B.Sc. Thesis Supervision
+# event: B.Sc. Thesis Supervision
 event_url: ''
 location: Karlsruhe Institute of Technology
-address:
-  street: ''
-  city: Karlsruhe
-  region: ''
-  postcode: ''
-  country: Germany
-summary: Implemented human body tracking using AR devices and IMUs for safe human-robot
-  collaboration
+# address:
+#   street: ''
+#   city: Karlsruhe
+#   region: ''
+#   postcode: ''
+#   country: Germany
+# summary: Implemented human body tracking using AR devices and IMUs for safe human-robot
+#   collaboration
 abstract: This B.Sc. Thesis explored implemented human body tracking using AR devices
   and IMUs for safe human-robot collaboration
 date: '2019-04-01T00:00:00Z'
@@ -38,4 +38,3 @@ projects:
 - tracking
 ---
 
-This Bachelor's thesis focused on implemented human body tracking using AR devices and IMUs for safe human-robot collaboration. The research contributed to advancing methods in Augmented Reality, Robotics, Computer Vision, Human-Robot Interaction.

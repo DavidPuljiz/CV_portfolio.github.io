@@ -1,16 +1,16 @@
 ---
 title: Kinesthetic Teaching of industrial robots using AR-Headset-based localisation
-event: B.Sc. Thesis Supervision
+# event: B.Sc. Thesis Supervision
 event_url: ''
 location: Karlsruhe Institute of Technology
-address:
-  street: ''
-  city: Karlsruhe
-  region: ''
-  postcode: ''
-  country: Germany
-summary: Implemented kinesthetic teaching methods for industrial robots using AR headset
-  localization
+# address:
+#   street: ''
+#   city: Karlsruhe
+#   region: ''
+#   postcode: ''
+#   country: Germany
+# summary: Implemented kinesthetic teaching methods for industrial robots using AR headset
+#   localization
 abstract: This B.Sc. Thesis explored implemented kinesthetic teaching methods for
   industrial robots using AR headset localization
 date: '2018-11-01T00:00:00Z'
@@ -34,5 +34,3 @@ slides: ''
 projects:
 - kinesthetic
 ---
-
-This Bachelor's thesis focused on implemented kinesthetic teaching methods for industrial robots using AR headset localization. The research contributed to advancing methods in Augmented Reality, Robotics.

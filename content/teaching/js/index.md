@@ -9,19 +9,19 @@ image:
   caption: 'Review duties'
 ---
 
-###Journals:
+## Journals:
 
-ACM Transactions on Human-Robot Interaction
-IEEE Transaction on Robotics
-IEEE Robotics and Automation Magazine
-Robotics and Autonomous Systems
+-ACM Transactions on Human-Robot Interaction
+-IEEE Transaction on Robotics
+-IEEE Robotics and Automation Magazine
+-Robotics and Autonomous Systems
 
-##Conferences:
+## Conferences:
 
-CASE 2018
-ISER 2018
-IROS 2018
-IROS 2022
-ICRA 2023
-ICRA 2025
+-CASE 2018
+-ISER 2018
+-IROS 2018
+-IROS 2022
+-ICRA 2023
+-ICRA 2025
 
