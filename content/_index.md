@@ -65,6 +65,16 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
