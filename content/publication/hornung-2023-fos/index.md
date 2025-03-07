@@ -7,7 +7,7 @@ authors:
 - C. Gonzalez
 - C. Wurll
 - F. Bellalouna
-date: 2023-None-01
+date: '2023-06-03'
 publishDate: '2025-03-07T08:06:47.513971Z'
 publication_types:
 - paper-conference
