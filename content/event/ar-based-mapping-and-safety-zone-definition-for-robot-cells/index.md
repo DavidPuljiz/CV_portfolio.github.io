@@ -1,16 +1,16 @@
 ---
 title: AR-based Mapping and Safety Zone Definition for Robot Cells
-event: M.Sc. Thesis Supervision
+type: M.Sc. Thesis 
 event_url: ''
 location: Karlsruhe Institute of Technology
-address:
-  street: ''
-  city: Karlsruhe
-  region: ''
-  postcode: ''
-  country: Germany
-summary: Developed AR-based solutions for mapping and defining safety zones in robot
-  cells
+# address:
+#   street: ''
+#   city: Karlsruhe
+#   region: ''
+#   postcode: ''
+#   country: Germany
+# summary: Developed AR-based solutions for mapping and defining safety zones in robot
+#   cells
 abstract: This M.Sc. Thesis explored developed AR-based solutions for mapping and
   defining safety zones in robot cells
 date: '2019-10-01T00:00:00Z'
@@ -19,6 +19,7 @@ all_day: true
 publishDate: '2019-10-01T00:00:00Z'
 authors:
 - admin
+- 'student name'
 tags:
 - Augmented Reality
 - Robotics
@@ -34,5 +35,3 @@ slides: ''
 projects:
 - ar-based
 ---
-
-This Master's thesis focused on developed AR-based solutions for mapping and defining safety zones in robot cells. The research contributed to advancing methods in Augmented Reality, Robotics.
