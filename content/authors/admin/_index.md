@@ -36,10 +36,10 @@ profiles:
   - icon: phone
     icon_pack: fas
     link: tel:+4915251556961
-  - icon: google-scholar
+  - icon: academicons/google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=CfCsI7gAAAAJ
-  - icon: github
+  - icon: brands/github
     icon_pack: fab
     link: https://github.com/DavidPuljiz
 
