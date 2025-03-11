@@ -19,6 +19,7 @@ all_day: true
 publishDate: '2018-11-01T00:00:00Z'
 authors:
 - admin
+- Thomas Erik Stöhr
 tags:
 - Augmented Reality
 - Robotics
