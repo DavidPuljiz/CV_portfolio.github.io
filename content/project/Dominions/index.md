@@ -12,7 +12,8 @@ Worldbuilding is the process of constructing an imaginary world or setting posse
 
 I mainly focus on fantasy settings, though there are some sci-fi settings in the work as well. Currently most of the published worldbuilding takes the forms of fictional nations made as mods for the game Dominions 6. The nations are based on real-world historic cultures and mythologies, though sometimes incorporating elements from pop-culture like comics or film. One can find the Steam Workshop link below:
 
-[Steam Workshop](hhttps://steamcommunity.com/id/dpuljiz/myworkshopfiles/?appid=2511500)
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3150125464)
+
 
 
 <!--more-->

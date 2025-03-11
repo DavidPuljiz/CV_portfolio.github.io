@@ -10,16 +10,16 @@ location: Karlsruhe Institute of Technology
 #   postcode: ''
 #   country: Germany
 # summary: Implemented 3D sensor-based inspection system for mixed pallets
-abstract: This B.Sc. Thesis explored implemented 3D sensor-based inspection system
-  for mixed pallets
+abstract: In my bachelor thesis on the topic of "Checking mixed pallets using a 3D sensor", the suitability of a 3D sensor was tested to detect and display deviations in the placement of packages using a point cloud.
 date: '2017-03-01T00:00:00Z'
 date_end: ''
 all_day: true
 publishDate: '2017-03-01T00:00:00Z'
 authors:
 - admin
+- Demian Hartmann
 tags:
-- Research
+- Computer Vision
 featured: false
 image:
   caption: ''

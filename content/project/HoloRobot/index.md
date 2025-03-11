@@ -9,7 +9,7 @@ tags:
 ---
 ## Description
 
-HoloRobot is the collection of software me and my students developed over the years as part of my research on Human-robot Interaction through the use of Head-mounted Displays and Wearables. A large part of this research was published as part of my PhD dissertation: 
+HoloRobot is the collection of software me and my students developed over the years as part of my research on Human-robot Interaction through the use of Head-mounted Displays and Wearables. A large part of this research was published as part of my PhD dissertation: "Adapting the Human: Human-robot Interaction mediated by Wearable Technology and Augmented Reality"
 
 ## Code
 
