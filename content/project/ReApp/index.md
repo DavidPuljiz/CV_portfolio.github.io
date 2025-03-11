@@ -9,5 +9,7 @@ The central aim of the ReApp project was to make robot systems economically viab
 
 As part of the ReApp project my main work focused on implementing ROS drivers for the SICK PIM60 camera system as well as co-develop the soldering pad detection system. Both were used, together with reusable components developed from other partners, to implement a live demonstration of autonomous soldering presented at the Hannover Messe 2016 [News Article](https://ipr.iar.kit.edu/english/2427.php).
 
+The repo of the ReApp project can be found **[HERE](https://github.com/reapp-project/reapp_apps).** 
+
 
 <!--more-->

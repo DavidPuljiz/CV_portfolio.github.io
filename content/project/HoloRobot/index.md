@@ -1,10 +1,22 @@
 ---
-title: ReApp
+title: HoloRobot
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+
 tags:
-  - Add tag
+  - Augmented Reality
+  - Robotics
+  - Human-robot Interaction
 ---
-Add description of what you have done
+## Description
+
+HoloRobot is the collection of software me and my students developed over the years as part of my research on Human-robot Interaction through the use of Head-mounted Displays and Wearables. A large part of this research was published as part of my PhD dissertation: 
+
+## Code
+
+The code is split in two repositories.
+
+The Unity repository contains different unity projects to be compiled and deployed directly onto the Microsoft HoloLens.
+
+The ROS repository contains many projects written to function in ROS, the Robot Opperating System - an open source robbotic middleware suite. 
 
 <!--more-->
