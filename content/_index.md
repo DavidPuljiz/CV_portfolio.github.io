@@ -68,10 +68,10 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Directed thesis
+      title: Directed Thesis
       filters:
         folders:
-          - event
+          - supervision
     design:
       view: article-grid
       columns: 1
