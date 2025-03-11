@@ -22,6 +22,7 @@ authors:
 tags:
 - Augmented Reality
 - Computer Vision
+- Tracking
 featured: false
 image:
   caption: ''
