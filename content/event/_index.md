@@ -1,5 +1,5 @@
 ---
-title: Directed thesis
+title: Directed Theses
 cms_exclude: true
 #url: talk
 
