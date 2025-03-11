@@ -10,7 +10,7 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: Directed thesis
+  - name: Directed Theses
     url: /#talks
     weight: 12
   - name: Personal
