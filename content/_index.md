@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-            I am a Robotics Engineer with over 10 years of experience in developing innovative Human-Robot Interaction methods through the integration of Mixed Reality, Head-Mounted Displays, and Machine Vision technologies. My expertise lies at the intersection of robotics and immersive technologies, where I create intuitive interfaces that enhance collaboration between humans and robotic systems. Beyond my technical work, I am passionate about world-building and art design, bringing a creative perspective to technological challenges. I am currently focused on improving and developing wearable devices that can further bridge the gap between humans and machines, making robotic systems more accessible and intuitive for everyday users.
+            I am a Robotics Engineer with over 10 years of experience in developing innovative Human-Robot Interaction methods through the use of Mixed Reality, Head-Mounted Displays, and Machine Vision technologies. My expertise lies at the intersection of robotics and immersive technologies, where I create intuitive interfaces that enhance collaboration between humans and cyberphysical systems. Beyond my technical work, I am passionate about world-building and art design, bringing a creative perspective to technological challenges. I am currently focused on improving and developing interaction paradigms based on wearable devices that can further bridge the gap between humans and machines, making robotic systems more accessible and intuitive for non-trained users.
     design:
       columns: '1'
   - block: collection

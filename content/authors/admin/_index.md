@@ -44,11 +44,12 @@ profiles:
     link: https://github.com/DavidPuljiz
 
 interests:
+  - Human-Robot Interaction
   - Wearable devices
   - Machine Vision
   - Cyberphysical systems
   - Human enhancement
-  - Human AI interaction
+  - Human-AI Interaction
 
 education:
   - area: Ph.D. in Robotics and Informatics
