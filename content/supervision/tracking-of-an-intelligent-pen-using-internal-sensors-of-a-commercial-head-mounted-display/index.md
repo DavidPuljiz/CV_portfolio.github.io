@@ -23,7 +23,7 @@ tags:
 - Augmented Reality
 - Robot Programming
 - Computer Vision
-- Marker Systems
+- Marker-based Tracking
 - Tracking
 featured: false
 image:

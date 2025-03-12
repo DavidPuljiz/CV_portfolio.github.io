@@ -25,4 +25,8 @@ abstract: Animals use stochastic search strategies to find a potential nest or t
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S1474667016336837
+tags:
+- Swarm Robotics
+- Search Strategies
+
 ---

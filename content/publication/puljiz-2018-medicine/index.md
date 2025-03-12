@@ -17,9 +17,8 @@ publication: '*CURAC 2018 - Tagungsband : 17. Jahrestagung der Deutschen Gesells
   Hrsg: T. Neumuth*'
 tags:
 - Computer Assisted Surgery
-- Surgical Assistance
 - Augmented Reality
-- Ventricular Puncture
 - Surface Matching
+- Tracking
 - Marker-based Tracking
 ---
