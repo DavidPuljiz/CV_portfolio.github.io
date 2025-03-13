@@ -3,7 +3,7 @@ title: ReApp
 date: 2023-10-26
 tags:
 - Robot Programming
-- Robot Control 
+- Robot Control
 - Visual Servoing
 -	Computer Vision
 -	Object Recognition
