@@ -2,13 +2,13 @@
 title: ReApp
 date: 2023-10-26
 tags:
-- Robot Programming
-- Robot Control 
-- Visual Servoing
--	Computer Vision
--	Object Recognition
-- UR
--	Monocular Camera
+  - Robot Programming
+  - Robot Control 
+  - Visual Servoing
+  -	Computer Vision
+  -	Object Recognition
+  - UR
+  -	Monocular Camera
 
 ---
 The central aim of the ReApp project was to make robot systems economically viable even for low-volume production. This was made possible through the use of new software components that offer companies more flexible and reusable solutions. [Project description](https://ipr.iar.kit.edu/english/315_1863.php)
