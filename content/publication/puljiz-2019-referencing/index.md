@@ -12,4 +12,13 @@ publication_types:
 - paper-conference
 publication: '*Proc. of the 2nd International Workshop on Virtual, Augmented, and
   Mixed Reality for Human-Robot Interactions (VAM-HRI)*'
+
+tags:
+-	Augmented Reality
+-	Computer Vision
+-	Mapping
+-	Object Recognition
+-	HoloLens 1
+-	KUKA
+
 ---

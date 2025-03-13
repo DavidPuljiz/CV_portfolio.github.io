@@ -4,8 +4,18 @@ date: 2023-10-26
 
 tags:
   - Augmented Reality
-  - Robotics
   - Human-robot Interaction
+  - Robot Programming
+  - Computer Vision
+  - Mapping
+  - Object Recognition 
+  - Tracking
+  - HoloLens 1
+  - KUKA
+  - Depth Sensor
+  - Stereo Camera
+  - IMU
+
 ---
 ## Description
 

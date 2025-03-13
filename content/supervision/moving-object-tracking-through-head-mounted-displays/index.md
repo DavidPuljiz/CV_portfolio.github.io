@@ -20,9 +20,13 @@ authors:
 - admin
 - Fabian Bösing
 tags:
-- Augmented Reality
-- Computer Vision
-- Tracking
+-	Augmented Reality
+-	Computer Vision
+-	Object Recognition
+-	Tracking
+-	Machine Learning
+-	HoloLens 2
+-	Depth Sensor
 featured: false
 image:
   caption: ''

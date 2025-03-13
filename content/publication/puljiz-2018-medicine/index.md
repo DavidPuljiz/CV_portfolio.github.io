@@ -16,8 +16,8 @@ publication: '*CURAC 2018 - Tagungsband : 17. Jahrestagung der Deutschen Gesells
   für Computer- und Roboterassistierte Chirurgie e.V. : 13.-15. September 2018, Leipzig.
   Hrsg: T. Neumuth*'
 tags:
-- Computer Assisted Surgery
 - Augmented Reality
+- Computer Assisted Surgery
 - Surface Matching
 - Tracking
 - Marker-based Tracking

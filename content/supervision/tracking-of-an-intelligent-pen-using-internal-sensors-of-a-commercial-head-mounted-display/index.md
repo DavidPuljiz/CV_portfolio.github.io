@@ -20,11 +20,16 @@ authors:
 - admin
 - Alexandru-George Vasilache
 tags:
-- Augmented Reality
-- Robot Programming
-- Computer Vision
-- Marker-based Tracking
-- Tracking
+tags:
+-	Augmented Reality
+-	Robot Programming
+-	Computer Vision
+-	Object Recognition
+-	Tracking
+-	Marker Tracking
+-	HoloLens 1
+-	Depth Sensor
+
 featured: false
 image:
   caption: ''

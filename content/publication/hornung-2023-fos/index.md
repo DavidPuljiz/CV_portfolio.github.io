@@ -14,6 +14,13 @@ publication_types:
 - paper-conference
 publication: '*EDULEARN23 Proceedings*'
 doi: 10.21125/edulearn.2023.1708
+tags:
+-	Virtual Reality
+-	HTC Vive
+-	Robot Programming
+-	Human-Robot Interaction
+- Learning Robotics
+
 links:
 - name: URL
   url: https://doi.org/10.21125/edulearn.2023.1708

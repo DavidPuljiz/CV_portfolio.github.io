@@ -13,10 +13,12 @@ publication_types:
 publication: '*Robotics and Computer-Integrated Manufacturing*'
 doi: https://doi.org/10.1016/j.rcim.2018.11.004
 tags:
-- Human intention estimation
-- Hidden Markov model
-- Virtual reality
+- Human Intention Estimation
+- Virtual Reality
+- Intralogistics
+- Hidden Markov Model
 - Theory of Mind
+- HTC Vive
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0736584518302965

@@ -19,9 +19,10 @@ authors:
 - admin
 - Gleb Gorbachev
 tags:
-- Augmented Reality
-- Human-Robot Interaction
-- Intralogistics
+-	Augmented Reality
+-	Intralogistics
+-	Situational Awerness
+- HoloLens 1
 featured: false
 image:
   caption: ''

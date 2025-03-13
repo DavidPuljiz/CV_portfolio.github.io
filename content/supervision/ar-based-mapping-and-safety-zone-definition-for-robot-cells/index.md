@@ -20,8 +20,15 @@ authors:
 - admin
 - Franziska Krebs
 tags:
-- Augmented Reality
-- Robot Programming
+-	Augmented Reality
+-	Robot Programming
+-	Computer Vision
+-	Mapping
+-	Object Recognition
+-	HoloLens 1
+-	KUKA
+-	Depth Sensor
+
 featured: false
 image:
   caption: ''

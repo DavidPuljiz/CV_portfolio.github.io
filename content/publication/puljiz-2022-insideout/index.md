@@ -16,4 +16,15 @@ publication: '*5th International Workshop on Virtual, Augmented, and Mixed Reali
 links:
 - name: URL
   url: https://openreview.net/forum?id=raMebPsrtyc
+
+tags:
+-	Augmented Reality
+-	Robot Programming
+-	Computer Vision
+-	Object Recognition
+-	Tracking
+-	Marker Tracking
+-	HoloLens 1
+-	Depth Sensor
+
 ---

@@ -14,4 +14,13 @@ publication: '*6th International Workshop on Virtual, Augmented, and Mixed Reali
 links:
 - name: URL
   url: https://openreview.net/pdf?id=p0XzP07CWT
+
+tags:
+-	Augmented Reality
+-	Computer Vision
+-	Object Recognition
+-	Tracking
+-	Machine Learning
+-	HoloLens 2
+-	Depth Sensor
 ---

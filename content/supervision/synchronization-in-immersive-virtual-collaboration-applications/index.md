@@ -21,6 +21,7 @@ authors:
 tags:
 - Virtual Reality
 - Collaborative Virtual Environments
+- Virtual Avatar
 featured: false
 image:
   caption: ''

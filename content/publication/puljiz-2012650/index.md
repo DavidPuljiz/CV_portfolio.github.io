@@ -28,5 +28,5 @@ links:
 tags:
 - Swarm Robotics
 - Search Strategies
-
+- Mobile Robots
 ---

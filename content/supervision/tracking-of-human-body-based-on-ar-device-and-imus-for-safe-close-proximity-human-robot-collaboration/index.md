@@ -22,10 +22,12 @@ authors:
 - Haobin Tan
 tags:
 - Augmented Reality
-- Robotics
 - Computer Vision
 - Human-Robot Interaction
 - Tracking
+-	HoloLens 1
+-	IMU
+-	Depth Sensor
 featured: false
 image:
   caption: ''

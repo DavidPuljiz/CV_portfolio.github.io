@@ -20,8 +20,9 @@ authors:
 - admin
 - Julian Vu
 tags:
-- Human-robot Interaction
-- Intention Estimation
+- Human Intention Estimation
+- Augmented Reality
+-	Human-Robot Interaction
 featured: false
 image:
   caption: ''

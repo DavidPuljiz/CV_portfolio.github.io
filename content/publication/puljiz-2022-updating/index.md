@@ -11,8 +11,8 @@ publication_types:
 publication: '*2nd International Workshop on Designerly HRI; HRI 2022*'
 tags:
 - Augmented Reality
-- Industrial Robots
-- Future Trends
 - Human-robot Interaction
 - Virtual Avatars
+- Industrial Robots
+- Future Trends
 ---

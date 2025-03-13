@@ -9,4 +9,16 @@ publishDate: '2025-03-07T08:06:47.462110Z'
 publication_types:
 - article-journal
 publication: '*Factory of the Future Workshop, IROS 2019*'
+tags:
+-	Augmented Reality
+-	Human-Robot Interaction
+-	Robot Programming
+-	Machine Learning
+-	Robot Control
+-	Computer Vision
+-	Mapping
+-	Object Recognition
+-	Tracking
+-	Marker Tracking
+
 ---

@@ -12,6 +12,8 @@ publication: '*2023 14th IEEE International Conference on Cognitive Infocommunic
   (CogInfoCom)*'
 doi: 10.1109/CogInfoCom59411.2023.10397486
 tags:
-- Productivity;Solid modeling;Three-dimensional displays;Heat pumps;Water heating;Tablet
-  computers;Boilers;Augmented Reality;LiDAR;Mobile Handsets;Heating
+- Augmented Reality
+- Mapping
+-	Apple iPad Pro 12
+-	Depth Sensor
 ---

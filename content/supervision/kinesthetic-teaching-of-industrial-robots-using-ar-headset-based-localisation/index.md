@@ -20,8 +20,15 @@ authors:
 - admin
 - Thomas Erik Stöhr
 tags:
-- Augmented Reality
-- Robot Programming
+-	Augmented Reality
+-	Robot Programming
+-	Robot Control
+-	Human-Robot Interaction
+-	Computer Vision
+-	Tracking
+-	HoloLens 1
+-	KUKA
+-	Depth Sensor
 featured: false
 image:
   caption: ''

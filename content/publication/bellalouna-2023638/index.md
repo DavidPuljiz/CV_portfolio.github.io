@@ -23,9 +23,9 @@ abstract: The metaverse is an immersive virtual space that enables users to meet
   the application of an industrial metaverse approach based on VR for the design review
   of a pharmaceutical vial filling machine.
 tags:
-- Industrial Metaverse
 - Virtual Reality
-- Avatar
+- Industrial Metaverse
+- Virtual Avatars
 - Design Review
 links:
 - name: URL

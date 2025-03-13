@@ -21,9 +21,13 @@ authors:
 - admin
 - Katharina Riesterer
 tags:
-- Augmented Reality
-- Robot Programming
-- Object Detection
+-	Augmented Reality
+-	Computer Vision
+-	Mapping
+-	Object Recognition
+-	HoloLens 1
+-	KUKA
+
 featured: false
 image:
   caption: ''

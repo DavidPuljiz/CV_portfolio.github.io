@@ -12,4 +12,10 @@ publication_types:
 - paper-conference
 publication: '*1st International Workshop on Virtual, Augmented, and Mixed Reality
   for HRI*'
+
+tags:
+-	Augmented Reality
+-	Intralogistics
+-	Situational Awerness
+- HoloLens 1
 ---

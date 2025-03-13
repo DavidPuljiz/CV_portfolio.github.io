@@ -15,4 +15,17 @@ publication: '*4th International Workshop on Virtual, Augmented, and Mixed Reali
 links:
 - name: URL
   url: https://openreview.net/forum?id=bR9Bc2NApG8
+
+tags:
+- Human Intention Estimation
+- Augmented Reality
+-	Human-Robot Interaction
+- Hidden Markov model
+- Theory of Mind
+-	HoloLens 1
+-	KUKA
+-	Depth Sensor
+-	Computer Vision
+-	Tracking
+
 ---

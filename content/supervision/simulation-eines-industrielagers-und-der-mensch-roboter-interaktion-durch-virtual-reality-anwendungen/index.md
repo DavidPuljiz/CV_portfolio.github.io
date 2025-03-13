@@ -21,8 +21,9 @@ authors:
 - Julian Schanowski
 tags:
 - Virtual Reality
-- Digital Twin
 - Intralogistics
+- Digital Twin
+
 featured: false
 image:
   caption: ''
