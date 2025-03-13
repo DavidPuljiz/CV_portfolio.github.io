@@ -22,8 +22,8 @@ authors:
 - Sebastian Kohn 
 tags:
 - Virtual Reality
--	Mapping
--	Robot Control
+- Mapping
+- Robot Control
 - Teleoperation 
 - HTC Vive
 - FANUC

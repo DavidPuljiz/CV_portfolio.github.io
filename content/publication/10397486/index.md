@@ -14,6 +14,6 @@ doi: 10.1109/CogInfoCom59411.2023.10397486
 tags:
 - Augmented Reality
 - Mapping
--	Apple iPad Pro 12
--	Depth Sensor
+- Apple iPad Pro 12
+- Depth Sensor
 ---

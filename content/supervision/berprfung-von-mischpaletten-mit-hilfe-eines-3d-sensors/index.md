@@ -20,8 +20,8 @@ authors:
 - Demian Hartmann
 tags:
 - Computer Vision
--	Object Recognition
--	Depth Sensor
+- Object Recognition
+- Depth Sensor
 
 featured: false
 image:

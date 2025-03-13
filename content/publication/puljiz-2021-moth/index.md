@@ -16,11 +16,11 @@ links:
   url: https://openreview.net/pdf?id=p0XzP07CWT
 
 tags:
--	Augmented Reality
--	Computer Vision
--	Object Recognition
--	Tracking
--	Machine Learning
--	HoloLens 2
--	Depth Sensor
+- Augmented Reality
+- Computer Vision
+- Object Recognition
+- Tracking
+- Machine Learning
+- HoloLens 2
+- Depth Sensor
 ---

@@ -19,13 +19,13 @@ links:
 tags:
 - Human Intention Estimation
 - Augmented Reality
--	Human-Robot Interaction
+- Human-Robot Interaction
 - Hidden Markov model
 - Theory of Mind
--	HoloLens 1
--	KUKA
--	Depth Sensor
--	Computer Vision
--	Tracking
+- HoloLens 1
+- KUKA
+- Depth Sensor
+- Computer Vision
+- Tracking
 
 ---

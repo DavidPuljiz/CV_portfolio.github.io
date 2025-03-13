@@ -16,13 +16,13 @@ publication: '*2020 IEEE/RSJ International Conference on Intelligent Robots and 
 doi: 10.1109/IROS45743.2020.9340879
 featured: true
 tags:
--	Augmented Reality
--	Robot Programming
--	Computer Vision
--	Mapping
--	Object Recognition
--	HoloLens 1
--	KUKA
--	Depth Sensor
+- Augmented Reality
+- Robot Programming
+- Computer Vision
+- Mapping
+- Object Recognition
+- HoloLens 1
+- KUKA
+- Depth Sensor
 
 ---

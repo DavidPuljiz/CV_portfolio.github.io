@@ -19,9 +19,9 @@ authors:
 - admin
 - Gleb Gorbachev
 tags:
--	Augmented Reality
--	Intralogistics
--	Situational Awerness
+- Augmented Reality
+- Intralogistics
+- Situational Awerness
 - HoloLens 1
 featured: false
 image:

@@ -21,12 +21,12 @@ authors:
 - admin
 - Katharina Riesterer
 tags:
--	Augmented Reality
--	Computer Vision
--	Mapping
--	Object Recognition
--	HoloLens 1
--	KUKA
+- Augmented Reality
+- Computer Vision
+- Mapping
+- Object Recognition
+- HoloLens 1
+- KUKA
 
 featured: false
 image:

@@ -21,7 +21,7 @@ authors:
 tags:
 - Augmented Reality
 - Robot Programming
--	HoloLens 1
+- HoloLens 1
 
 featured: false
 image:

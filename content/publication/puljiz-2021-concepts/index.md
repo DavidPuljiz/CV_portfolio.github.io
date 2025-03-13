@@ -28,7 +28,7 @@ links:
 featured: true
 
 tags:
--	Human-Robot Interaction
+- Human-Robot Interaction
 - Metaphores
 - Robot Behavior
 - Robot Design 

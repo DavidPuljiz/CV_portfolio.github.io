@@ -14,8 +14,8 @@ publication: '*1st International Workshop on Virtual, Augmented, and Mixed Reali
   for HRI*'
 
 tags:
--	Augmented Reality
--	Intralogistics
--	Situational Awerness
+- Augmented Reality
+- Intralogistics
+- Situational Awerness
 - HoloLens 1
 ---

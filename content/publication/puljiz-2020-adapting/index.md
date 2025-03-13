@@ -11,8 +11,8 @@ publication_types:
 publication: '*Metaphors for Human-robot Interaction Workshop, ICSR 2020*'
 
 tags:
--	Augmented Reality
--	Human-Robot Interaction
--	Wearables
+- Augmented Reality
+- Human-Robot Interaction
+- Wearables
 
 ---

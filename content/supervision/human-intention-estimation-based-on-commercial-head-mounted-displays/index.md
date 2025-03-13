@@ -22,7 +22,7 @@ authors:
 tags:
 - Human Intention Estimation
 - Augmented Reality
--	Human-Robot Interaction
+- Human-Robot Interaction
 featured: false
 image:
   caption: ''

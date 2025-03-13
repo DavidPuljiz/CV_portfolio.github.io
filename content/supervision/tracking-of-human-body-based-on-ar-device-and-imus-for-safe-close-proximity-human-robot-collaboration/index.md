@@ -25,9 +25,9 @@ tags:
 - Computer Vision
 - Human-Robot Interaction
 - Tracking
--	HoloLens 1
--	IMU
--	Depth Sensor
+- HoloLens 1
+- IMU
+- Depth Sensor
 featured: false
 image:
   caption: ''

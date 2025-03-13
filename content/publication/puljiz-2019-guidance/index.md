@@ -15,15 +15,15 @@ publication: '*2019 IEEE/RSJ International Conference on Intelligent Robots and 
   (IROS)*'
 doi: 10.1109/IROS40897.2019.8967649
 tags:
--	Augmented Reality
--	Robot Programming
--	Robot Control
--	Human-Robot Interaction
--	Computer Vision
--	Tracking
--	HoloLens 1
--	KUKA
--	Depth Sensor
+- Augmented Reality
+- Robot Programming
+- Robot Control
+- Human-Robot Interaction
+- Computer Vision
+- Tracking
+- HoloLens 1
+- KUKA
+- Depth Sensor
 
 featured: true
 ---

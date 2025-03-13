@@ -19,8 +19,8 @@ publication: '*2018 IEEE/RSJ International Conference on Intelligent Robots and 
 doi: 10.1109/IROS.2018.8594053
 tags:
 - Virtual Reality
--	Mapping
--	Robot Control
+- Mapping
+- Robot Control
 - Teleoperation 
 - HTC Vive
 - FANUC

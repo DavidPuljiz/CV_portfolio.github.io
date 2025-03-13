@@ -22,8 +22,8 @@ tags:
 - Augmented Reality
 - Computer Vision
 - Mapping
--	HoloLens 1
--	Depth Sensor
+- HoloLens 1
+- Depth Sensor
 featured: false
 image:
   caption: ''

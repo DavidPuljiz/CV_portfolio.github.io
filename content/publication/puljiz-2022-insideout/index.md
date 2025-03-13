@@ -18,13 +18,13 @@ links:
   url: https://openreview.net/forum?id=raMebPsrtyc
 
 tags:
--	Augmented Reality
--	Robot Programming
--	Computer Vision
--	Object Recognition
--	Tracking
--	Marker Tracking
--	HoloLens 1
--	Depth Sensor
+- Augmented Reality
+- Robot Programming
+- Computer Vision
+- Object Recognition
+- Tracking
+- Marker Tracking
+- HoloLens 1
+- Depth Sensor
 
 ---

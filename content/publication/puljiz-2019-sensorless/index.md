@@ -16,13 +16,13 @@ publication: '*2019 14th ACM/IEEE International Conference on Human-Robot Intera
 doi: 10.1109/HRI.2019.8673145
 
 tags:
--	Augmented Reality
--	Robot Programming
--	Robot Control
--	Human-Robot Interaction
--	Computer Vision
--	Tracking
--	HoloLens 1
--	KUKA
--	Depth Sensor
+- Augmented Reality
+- Robot Programming
+- Robot Control
+- Human-Robot Interaction
+- Computer Vision
+- Tracking
+- HoloLens 1
+- KUKA
+- Depth Sensor
 ---
